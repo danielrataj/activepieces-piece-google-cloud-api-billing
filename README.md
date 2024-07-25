@@ -1,4 +1,4 @@
-# pieces-google-cloud-api
+# pieces-google-cloud-api-billing
 
 This library is a wrapper around the Google Cloud API.
 

@@ -1,5 +1,5 @@
 
-import { createPiece, PieceAuth } from "@activepieces/pieces-framework";
+import { createPiece, PieceAuth, OAuth2PropertyValue} from "@activepieces/pieces-framework";
 import { createCustomApiCallAction } from '@activepieces/pieces-common';
 
 export const driverAuth = PieceAuth.OAuth2({

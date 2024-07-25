@@ -1,5 +1,5 @@
 {
-  "name": "pieces-google-cloud-api",
+  "name": "pieces-google-cloud-api-billing",
   "$schema": "../../../../node_modules/nx/schemas/project-schema.json",
   "sourceRoot": "packages/pieces/community/google-cloud-api/src",
   "projectType": "library",
